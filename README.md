@@ -1,43 +1,55 @@
 # Exp-1 ATM & BANKING SYSTEM
 
-# AIM:
-To develop an ATM & Banking System that automates basic banking operations such as cash withdrawal, deposit, balance inquiry, and fund transfer, ensuring secure and user-friendly transactions.
+Create the following diagrams in StarUML:
 
-# SRS (Procedure):
-Identify Requirements: Collect all functional and non-functional requirements of the ATM system.
+Use Case Diagram
 
-System Analysis: Analyze user needs and define system functionalities like withdraw, deposit, and balance check.
+Class Diagram
 
-Design Phase: Create system architecture, DFDs, and UML diagrams for process flow.
+Activity Diagram
 
-Database Design: Design tables for users, accounts, and transactions securely.
+Package Diagram
 
-Coding: Develop individual modules for login, transactions, and account management.
+Communication Diagram
 
-Integration: Combine all modules and ensure they work together properly.
+Sequence Diagram
 
-Testing: Test the system for accuracy, security, and performance.
+1 . User logs in or creates an account, choosing current or savings type.
 
-Implementation & Maintenance: Deploy the system and perform regular updates and bug fixes.
+2 . They can deposit, withdraw, check balance, print statements, or change PIN.
+
+3 . Users may request a chequebook or apply for a loan (small or large).
+
+4 . After verification and approval, funds are transferred, details stored, and server maintained.
 
 # DIAGRAMS:
-## USECASE DIAGRAM:
-<img width="1103" height="782" alt="image" src="https://github.com/user-attachments/assets/fd36507a-eb79-4a53-a58e-df1c500afcaf" />
 
-## CLASS DIAGRAM:
-<img width="1049" height="733" alt="image" src="https://github.com/user-attachments/assets/70bfdd48-fb4d-4852-ac68-061add31ca88" />
+### USE CASE DIAGRAM:
 
-## ACTIVITY DIAGRAM:
-<img width="850" height="968" alt="image" src="https://github.com/user-attachments/assets/b04ec598-f9dd-4b59-89fe-d5280ede2c4a" />
+<img width="1009" height="940" alt="image" src="https://github.com/user-attachments/assets/dd7a72ee-d059-4070-9d7c-321aec5dea4a" />
 
-## SEQUENCE DIAGRAM:
-<img width="957" height="989" alt="image" src="https://github.com/user-attachments/assets/8d0c9b7a-6ad9-4fc2-8dec-190e5c972337" />
 
-## COMMUNICATION DIAGRAM:
-<img width="1230" height="861" alt="image" src="https://github.com/user-attachments/assets/7c0ee694-5946-4a87-95c1-323be9e9a9cf" />
+### CLASS DIAGRAM:
 
-## PACKAGE DIAGRAM:
-<img width="1026" height="640" alt="image" src="https://github.com/user-attachments/assets/7e54390e-638a-460f-a568-36020a4b4aa9" />
+<img width="981" height="791" alt="image" src="https://github.com/user-attachments/assets/aea0d88b-3149-4ea0-a904-59052c5a75d8" />
+
+
+### PACKAGE DIAGRAM:
+
+<img width="813" height="529" alt="image" src="https://github.com/user-attachments/assets/ea3065b9-998d-4b5c-92be-18f4317b9537" />
+
+### SEQUENCE DIAGRAM:
+
+<img width="1196" height="831" alt="image" src="https://github.com/user-attachments/assets/d751c021-8090-4659-8853-9f0e2acb3c4b" />
+
+### COMMUNICATION DIAGRAM:
+
+<img width="965" height="762" alt="image" src="https://github.com/user-attachments/assets/0cb452a9-495f-4da3-80e3-387f423c004c" />
+
+### ACTIVITY DIAGRAM:
+
+<img width="714" height="966" alt="image" src="https://github.com/user-attachments/assets/40e9b95a-cc1f-40fa-9c61-7a7a1644dff3" />
 
 # RESULT:
-The ATM & Banking System was successfully developed to perform secure and efficient banking operations like deposit, withdrawal, and balance inquiry.
+
+Thus, the UML Diagrams for an ATM and Banking System has been drawn and verified.
