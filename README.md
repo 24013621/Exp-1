@@ -1,5 +1,13 @@
 # Exp-1 ATM & BANKING SYSTEM
+# AIM:
 
+To study the problem statement, SRS document and draw all the UML diagrams of ATM System.
+
+# SRS (Procedure):
+
+User Authentication: Insert ATM card and enter PIN; system verifies credentials.
+
+Account Selection: Choose account type (Savings/Current) to access account details.
 Transactions: Perform cash withdrawal, balance inquiry, fund transfer, or deposit; system validates and updates account.
 
 Transaction Completion: Option to perform another transaction or exit; card ejected; receipt printed if requested.
