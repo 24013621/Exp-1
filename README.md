@@ -1,55 +1,43 @@
 # Exp-1 ATM & BANKING SYSTEM
 
-Create the following diagrams in StarUML:
+Transactions: Perform cash withdrawal, balance inquiry, fund transfer, or deposit; system validates and updates account.
 
-Use Case Diagram
+Transaction Completion: Option to perform another transaction or exit; card ejected; receipt printed if requested.
 
-Class Diagram
-
-Activity Diagram
-
-Package Diagram
-
-Communication Diagram
-
-Sequence Diagram
-
-1 . User logs in or creates an account, choosing current or savings type.
-
-2 . They can deposit, withdraw, check balance, print statements, or change PIN.
-
-3 . Users may request a chequebook or apply for a loan (small or large).
-
-4 . After verification and approval, funds are transferred, details stored, and server maintained.
+Security & Logging: All transactions encrypted, logged in bank database; idle timeout and failed PIN attempts handled securely.
 
 # DIAGRAMS:
 
-### USE CASE DIAGRAM:
+USECASE DIAGRAM:
 
-<img width="1009" height="940" alt="image" src="https://github.com/user-attachments/assets/dd7a72ee-d059-4070-9d7c-321aec5dea4a" />
-
-
-### CLASS DIAGRAM:
-
-<img width="981" height="791" alt="image" src="https://github.com/user-attachments/assets/aea0d88b-3149-4ea0-a904-59052c5a75d8" />
+<img width="1021" height="999" alt="Screenshot 2026-04-28 224757" src="https://github.com/user-attachments/assets/92733a85-0d9c-4625-b2da-1105290db323" />
 
 
-### PACKAGE DIAGRAM:
+CLASS DIAGRAM:
 
-<img width="813" height="529" alt="image" src="https://github.com/user-attachments/assets/ea3065b9-998d-4b5c-92be-18f4317b9537" />
+<img width="952" height="704" alt="Screenshot 2026-04-28 224559" src="https://github.com/user-attachments/assets/72bfb1db-96e7-4a8d-8898-14b02c5e88f2" />
 
-### SEQUENCE DIAGRAM:
 
-<img width="1196" height="831" alt="image" src="https://github.com/user-attachments/assets/d751c021-8090-4659-8853-9f0e2acb3c4b" />
+ACTIVITY DIAGRAM:
 
-### COMMUNICATION DIAGRAM:
+<img width="781" height="824" alt="Screenshot 2026-04-28 224543" src="https://github.com/user-attachments/assets/fe27b9ce-2979-4edd-8e3d-65c23eb46b46" />
 
-<img width="965" height="762" alt="image" src="https://github.com/user-attachments/assets/0cb452a9-495f-4da3-80e3-387f423c004c" />
 
-### ACTIVITY DIAGRAM:
+SEQUENCE DIAGRAM:
 
-<img width="714" height="966" alt="image" src="https://github.com/user-attachments/assets/40e9b95a-cc1f-40fa-9c61-7a7a1644dff3" />
+<img width="978" height="954" alt="Screenshot 2026-04-28 224403" src="https://github.com/user-attachments/assets/1dfcbbb0-a868-42e2-9948-7b0fd6c97f58" />
+
+
+PACKAGE DIAGRAM:
+
+<img width="767" height="558" alt="Screenshot 2026-04-28 224439" src="https://github.com/user-attachments/assets/f0a15dbb-15ea-48ce-b6f4-d010dd3c054b" />
+
+
+COMMUNICATION DIAGRAM:
+
+<img width="893" height="766" alt="Screenshot 2026-04-28 224423" src="https://github.com/user-attachments/assets/f80a4f7d-1e5b-44e1-876d-57e1ddaadd7c" />
+
 
 # RESULT:
 
-Thus, the UML Diagrams for an ATM and Banking System has been drawn and verified.
+Thus the Atm and banking System project was executed and the output was verified.
